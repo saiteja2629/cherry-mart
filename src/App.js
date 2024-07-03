@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="app-container">
       <Routes>
-      <Route exact path="/" element={<Products />} />
+      <Route exact path="/cherry-mart" element={<Products />} />
         <Route exact path="/Cart" element={<Cart />} />
         <Route exact path="/Orders" element={<Orders />} />
         <Route exact path="/payments" element={<Payment />} />
