@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cherry-mart/static/css/main.3ccd0c2a.css",
+    "main.js": "/cherry-mart/static/js/main.acecb3d5.js",
+    "index.html": "/cherry-mart/index.html",
+    "main.3ccd0c2a.css.map": "/cherry-mart/static/css/main.3ccd0c2a.css.map",
+    "main.acecb3d5.js.map": "/cherry-mart/static/js/main.acecb3d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ccd0c2a.css",
+    "static/js/main.acecb3d5.js"
+  ]
+}
